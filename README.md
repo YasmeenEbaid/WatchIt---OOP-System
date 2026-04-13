@@ -1,4 +1,4 @@
-# WatchIt---OOP-System
+# WatchIt-OOP-System
 WatchIt is a Java-based Object-Oriented Programming project developed with JavaFX. The system demonstrates core OOP principles while providing a graphical user interface for better interaction and usability.
 ---
 ## 🚀 Features
